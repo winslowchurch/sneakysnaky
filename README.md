@@ -1,4 +1,4 @@
-# sneakysnake
+# sneakysnaky
 Terminal based snake game
 
 INSTRUCTIONS
