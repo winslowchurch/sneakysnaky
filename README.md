@@ -1,5 +1,5 @@
 # sneakysnaky
-Terminal based snake game
+recreation of a snake game played in the terminal
 
 INSTRUCTIONS
 
