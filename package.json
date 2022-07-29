@@ -13,11 +13,5 @@
   "dependencies": {
     "blessed": "^0.1.81"
   },
-  "licence": "MIT",
-  "keywords": [
-    "snake",
-    "javascript",
-    "node"
-  ],
   "private": false
 }
