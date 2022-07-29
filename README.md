@@ -12,7 +12,7 @@ If you run into the walls or yourself, the game ends
 Press the Enter Key to restart
 
 
-INSTALLATION
+HOW TO PLAY
 
 Type "npx winslowchurch/sneakysnaky" in the Terminal to run!
 
