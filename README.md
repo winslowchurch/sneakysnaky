@@ -14,8 +14,7 @@ Press the Enter Key to restart
 
 INSTALLATION
 
-git clone this repository
+Type "npx winslowchurch/sneakysnake" in Terminal to run without downloading anything
 
-cd into sneakysnake 
-
-npm i && npm run play
+Otherwise, git clone this repository, cd into sneakysnake 
+Then type "npm i && npm run play"
