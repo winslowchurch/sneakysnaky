@@ -1,0 +1,23 @@
+{
+  "name": "sneakysnaky",
+  "version": "1.0",
+  "description": "A Snake Game run in the terminal",
+  "author": "Winslow Church",
+  "main": "index.js",
+  "bin": {
+    "sneakysnaky": "./play.js"
+  },
+  "scripts": {
+    "play": "node play.js"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81"
+  },
+  "licence": "MIT",
+  "keywords": [
+    "snake",
+    "javascript",
+    "node"
+  ],
+  "private": false
+}
